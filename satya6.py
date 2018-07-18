@@ -1,0 +1,9 @@
+m=int(raw_input())
+n=int(raw_input())
+o=int(raw_input())
+if(m>n&m>0):
+	print(m)
+elif(n>m&n>0):
+	print(n)
+else:
+		print(o)
